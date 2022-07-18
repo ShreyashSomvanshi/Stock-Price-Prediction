@@ -1,2 +1,2 @@
 # HerokuDiabetesPredictionAPI
-Deeploying ML model API in Heroku
+Deploying ML model API in Heroku
